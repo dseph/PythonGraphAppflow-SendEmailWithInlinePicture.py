@@ -1,6 +1,6 @@
-Use Python with Graph and oAuth App flow to send an email with an inline picture.
+# Use Python with Graph and oAuth App flow to send an email with an inline picture.
+PythonGraphAppflow-SendEmailWithInlinePicture.py
 
-# PythonGraphAppflow-SendEmailWithInlinePicture.py
 
 
 
