@@ -24,6 +24,7 @@
 #4. Call POST /users/{sender}/sendMail with the message payload.
 
 # Note: A picture file is not included in this example.  Find one and save to a folder and then adjust the codepath to point to it.
+# JPEG, JPG, PNG, GIF, BMP, TIFF are common formats.
 
 # =============================   
 # Import necessary libraries
